@@ -1,6 +1,6 @@
 # Sistema de Presença Escolar
 
-> Plataforma web completa para controle de frequência de educandos, desenvolvida para uso real em uma instituição de ensino**.
+> **Plataforma web completa para controle de frequência de educandos, desenvolvida para uso real em uma instituição de ensino**.
 
 O código-fonte deste projeto é mantido em repositório privado. Este repositório apresenta a visão geral do sistema, as decisões de arquitetura e as tecnologias utilizadas.
 
